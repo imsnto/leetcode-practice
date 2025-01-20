@@ -13,16 +13,12 @@ public:
 
         int x = arr.size();
         for(int i=0; i<x; i++){
-            int r = mp[arr[i]].first;
-            int c = mp[arr[i]].second;
+            pair<int,int> p = mp[arr[i]];
+         
 
-            row[r]++;
-            col[c]++;
 
-            cout << r << " " << c << endl;
-
-            if(row[r] == m) return i;
-            if(col[c] == n) return i;
+            if(++row[p.first] == m) return i;
+            if(++col[p.second] == n) return i;
             
         }
 
