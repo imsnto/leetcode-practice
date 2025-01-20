@@ -3,34 +3,35 @@ public:
     int minCost(vector<vector<int>>& g) {
         int r = g.size(), c = g[0].size();
         vector<vector<int>> mn(r, vector<int>(c, INT_MAX));
+        vector<vector<int>> dirs = {{0,1}, {0,-1}, {1,0}, {-1, 0}}; 
+                                   // right left    down    up
+        priority_queue<vector<int>, vector<vector<int>>, greater<>> pq;
+        pq.push({0,0,0});
         mn[0][0] = 0;
 
-        while(true){
-            vector<vector<int>> pv = mn;
+        while(!pq.empty()){
+            auto curr = pq.top();
+            pq.pop();
+            int cost = curr[0], row = curr[1], col = curr[2];
 
-            // forward pass
-            for(int i=0; i<r; i++){
-                for(int j=0; j<c; j++){
-                    if(i>0)
-                        mn[i][j] = min(mn[i][j], mn[i-1][j] + (g[i-1][j] == 3 ? 0:1 ));
+            if(mn[row][col] != cost) continue;
 
-                    if(j>0)
-                        mn[i][j] = min(mn[i][j], mn[i][j-1] + (g[i][j-1] == 1 ? 0:1 ));
+            for(int dir =0; dir<4; dir++){
+                int newR = row + dirs[dir][0];
+                int newC = col + dirs[dir][1];
+
+                if(newR >=0 && newR < r && newC>=0 && newC < c){
+                    int newCost = cost + (dir != (g[row][col]-1) ? 1 : 0);
+                    
+                    if(mn[newR][newC] > newCost){
+                        mn[newR][newC] = newCost;
+                        pq.push({newCost, newR, newC});
+                    }
                 }
             }
 
-            // backward pass
-            for(int i=r-1; i>=0; i--){
-                for(int j=c-1; j>=0; j--){
-                    if(i < r-1) 
-                        mn[i][j] = min(mn[i][j], mn[i+1][j] + (g[i+1][j] == 4 ?0:1) );
-                    if(j < c-1)
-                        mn[i][j] = min(mn[i][j], mn[i][j+1] + (g[i][j+1] == 2?0:1));
-                }
-            }
-
-            if(pv == mn) break;
         }
+
         return mn[r-1][c-1];
     }
 };
