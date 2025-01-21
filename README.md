@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/imsnto/leetcode_/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/imsnto/leetcode_/tree/master/2145-grid-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/imsnto/leetcode_/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/imsnto/leetcode_/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/imsnto/leetcode_/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -61,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/imsnto/leetcode_/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2145-grid-game](https://github.com/imsnto/leetcode_/tree/master/2145-grid-game) |
 ## Matrix
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/imsnto/leetcode_/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/imsnto/leetcode_/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/imsnto/leetcode_/tree/master/2685-first-completely-painted-row-or-column) |
 ## Breadth-First Search
 |  |
