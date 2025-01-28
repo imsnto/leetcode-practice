@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/imsnto/leetcode_/tree/master/2145-grid-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/imsnto/leetcode_/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/imsnto/leetcode_/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/imsnto/leetcode_/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/imsnto/leetcode_/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/imsnto/leetcode_/tree/master/2792-neighboring-bitwise-xor) |
 ## Bit Manipulation
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/imsnto/leetcode_/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/imsnto/leetcode_/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/imsnto/leetcode_/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/imsnto/leetcode_/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/imsnto/leetcode_/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/imsnto/leetcode_/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/imsnto/leetcode_/tree/master/1876-map-of-highest-peak) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/imsnto/leetcode_/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -99,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/imsnto/leetcode_/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/imsnto/leetcode_/tree/master/1558-course-schedule-iv) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/imsnto/leetcode_/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/imsnto/leetcode_/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/imsnto/leetcode_/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
