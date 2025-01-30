@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/imsnto/leetcode_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/imsnto/leetcode_/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/imsnto/leetcode_/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/imsnto/leetcode_/tree/master/1558-course-schedule-iv) |
@@ -116,4 +117,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/imsnto/leetcode_/tree/master/1558-course-schedule-iv) |
+## Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/imsnto/leetcode_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/imsnto/leetcode_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/imsnto/leetcode_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
