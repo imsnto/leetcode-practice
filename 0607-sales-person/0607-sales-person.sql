@@ -9,7 +9,7 @@ where s.sales_id NOT IN(
         distinct o.sales_id
     from 
         orders o
-     join 
+     inner join 
         company c on c.com_id = o.com_id
     where 
         c.name = 'RED'
