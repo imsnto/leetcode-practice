@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/imsnto/leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0812-rotate-string](https://github.com/imsnto/leetcode_/tree/master/0812-rotate-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/imsnto/leetcode_/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/imsnto/leetcode_/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/imsnto/leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/imsnto/leetcode_/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Hash Table
 |  |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/imsnto/leetcode_/tree/master/0607-sales-person) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/imsnto/leetcode_/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
