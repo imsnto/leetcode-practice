@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/imsnto/leetcode_/tree/master/0005-longest-palindromic-substring) |
+| [0516-longest-palindromic-subsequence](https://github.com/imsnto/leetcode_/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/imsnto/leetcode_/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/imsnto/leetcode_/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/imsnto/leetcode_/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -152,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/imsnto/leetcode_/tree/master/0005-longest-palindromic-substring) |
+| [0516-longest-palindromic-subsequence](https://github.com/imsnto/leetcode_/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/imsnto/leetcode_/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
