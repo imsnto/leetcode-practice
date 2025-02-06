@@ -18,17 +18,18 @@ public:
 
         // return lcs(s, t, n-1, m-1);
 
-        vector<vector<int>> dp(n+1, vector<int>(m+1));
+        vector<vector<int>> dp(2, vector<int>(m+1));
 
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
                 if(s[i] == t[j]){
-                    dp[i+1][j+1] = dp[i][j] + 1;
+                    dp[1][j+1] = dp[0][j] + 1;
                 }else{
-                    dp[i+1][j+1] = max(dp[i+1][j], dp[i][j+1]);
+                    dp[1][j+1] = max(dp[1][j], dp[0][j+1]);
                 }
             }
+            dp[0] = dp[1];
         }
-        return dp[n][m];
+        return dp[1][m];
     }
 };
