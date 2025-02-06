@@ -1,21 +1,34 @@
 class Solution {
 public:
-int memo[1000][1000];
-    int lcs(string &s, string &t, int i, int j){
-        if(i<0 or j<0) return 0;
-        if(memo[i][j] !=-1) return memo[i][j];
+// int memo[1000][1000];
+//     int lcs(string &s, string &t, int i, int j){
+//         if(i<0 or j<0) return 0;
+//         if(memo[i][j] !=-1) return memo[i][j];
 
-        if(s[i] == t[j])return memo[i][j] = 1 + lcs(s, t, i-1, j-1);
-        return memo[i][j] = max(lcs(s,t, i-1, j), lcs(s,t,i,j-1));
-    }
+//         if(s[i] == t[j])return memo[i][j] = 1 + lcs(s, t, i-1, j-1);
+//         return memo[i][j] = max(lcs(s,t, i-1, j), lcs(s,t,i,j-1));
+//     }
     int longestCommonSubsequence(string s, string t) {
         int n = s.size(), m = t.size();
+        // for(int i=0; i<n; i++){
+        //     for(int j=0; j<m; j++){
+        //         memo[i][j] = -1;
+        //     }
+        // }
+
+        // return lcs(s, t, n-1, m-1);
+
+        vector<vector<int>> dp(n+1, vector<int>(m+1));
+
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
-                memo[i][j] = -1;
+                if(s[i] == t[j]){
+                    dp[i+1][j+1] = dp[i][j] + 1;
+                }else{
+                    dp[i+1][j+1] = max(dp[i+1][j], dp[i][j+1]);
+                }
             }
         }
-
-        return lcs(s, t, n-1, m-1);
+        return dp[n][m];
     }
 };
