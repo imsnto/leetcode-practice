@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/imsnto/leetcode_/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/imsnto/leetcode_/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/imsnto/leetcode_/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/imsnto/leetcode_/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/imsnto/leetcode_/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/imsnto/leetcode_/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/imsnto/leetcode_/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -155,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/imsnto/leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0516-longest-palindromic-subsequence](https://github.com/imsnto/leetcode_/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/imsnto/leetcode_/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/imsnto/leetcode_/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
