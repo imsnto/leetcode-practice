@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/imsnto/leetcode_/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/imsnto/leetcode_/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/imsnto/leetcode_/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3447-clear-digits](https://github.com/imsnto/leetcode_/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/imsnto/leetcode_/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String Matching
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/imsnto/leetcode_/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/imsnto/leetcode_/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/imsnto/leetcode_/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/imsnto/leetcode_/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
