@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/imsnto/leetcode_/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/imsnto/leetcode_/tree/master/0128-longest-consecutive-sequence) |
 | [1364-tuple-with-same-product](https://github.com/imsnto/leetcode_/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/imsnto/leetcode_/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/imsnto/leetcode_/tree/master/0036-valid-sudoku) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imsnto/leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/imsnto/leetcode_/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/imsnto/leetcode_/tree/master/0189-rotate-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/imsnto/leetcode_/tree/master/0036-valid-sudoku) |
 | [1396-count-servers-that-communicate](https://github.com/imsnto/leetcode_/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/imsnto/leetcode_/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/imsnto/leetcode_/tree/master/1876-map-of-highest-peak) |
