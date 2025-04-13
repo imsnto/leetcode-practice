@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imsnto/leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/imsnto/leetcode_/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/imsnto/leetcode_/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/imsnto/leetcode_/tree/master/2509-minimize-xor) |
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imsnto/leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/imsnto/leetcode_/tree/master/0128-longest-consecutive-sequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/imsnto/leetcode_/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/imsnto/leetcode_/tree/master/1247-decrease-elements-to-make-array-zigzag) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/imsnto/leetcode_/tree/master/0005-longest-palindromic-substring) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imsnto/leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/imsnto/leetcode_/tree/master/0516-longest-palindromic-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/imsnto/leetcode_/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1250-longest-common-subsequence](https://github.com/imsnto/leetcode_/tree/master/1250-longest-common-subsequence) |
