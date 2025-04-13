@@ -185,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/imsnto/leetcode_/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/imsnto/leetcode_/tree/master/3447-clear-digits) |
+## Math
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/imsnto/leetcode_/tree/master/2050-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/imsnto/leetcode_/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
