@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1247-decrease-elements-to-make-array-zigzag](https://github.com/imsnto/leetcode_/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/imsnto/leetcode_/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/imsnto/leetcode_/tree/master/2509-minimize-xor) |
 ## Array
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/imsnto/leetcode_/tree/master/0128-longest-consecutive-sequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/imsnto/leetcode_/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1247-decrease-elements-to-make-array-zigzag](https://github.com/imsnto/leetcode_/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1364-tuple-with-same-product](https://github.com/imsnto/leetcode_/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/imsnto/leetcode_/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/imsnto/leetcode_/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
