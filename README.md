@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/imsnto/leetcode_/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/imsnto/leetcode_/tree/master/0189-rotate-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/imsnto/leetcode_/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imsnto/leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/imsnto/leetcode_/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/imsnto/leetcode_/tree/master/0189-rotate-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/imsnto/leetcode_/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/imsnto/leetcode_/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1364-tuple-with-same-product](https://github.com/imsnto/leetcode_/tree/master/1364-tuple-with-same-product) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/imsnto/leetcode_/tree/master/0189-rotate-array) |
 | [2050-count-good-numbers](https://github.com/imsnto/leetcode_/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
