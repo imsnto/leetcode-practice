@@ -3,24 +3,18 @@ public:
     string convert(string s, int numRows) {
         string ans;
         int n = s.size();
-        if(n==1 or numRows==1) return s;
+        if(numRows == 1 or n==1) return s;
+        vector<string> ar(numRows);
+        int idx = 0, step = 1;
 
-        int distance = numRows * 2;
-        int first = distance, second = -2;
+        for(char c: s){
+            ar[idx] += c;
+            if(idx == 0) step = 1;
+            else if(idx == numRows - 1) step = -1;
 
-        for(int i=0; i<numRows; i++){
-            first -= 2; second += 2;
-
-            int idx = i;
-            while(idx < n){
-                ans += s[idx];
-                if(first != 0) idx += first;
-                else idx += second;
-                if(idx < n) ans += s[idx];
-                if(second != 0) idx += second;
-                else idx += first;
-            }
+            idx += step;
         }
+        for(string ss: ar) ans += ss;
         return ans;
     }
 };
