@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/imsnto/leetcode_/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/imsnto/leetcode_/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/imsnto/leetcode_/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1656-count-good-triplets](https://github.com/imsnto/leetcode_/tree/master/1656-count-good-triplets) |
 | [1876-map-of-highest-peak](https://github.com/imsnto/leetcode_/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/imsnto/leetcode_/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/imsnto/leetcode_/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/imsnto/leetcode_/tree/master/2050-count-good-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/imsnto/leetcode_/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
