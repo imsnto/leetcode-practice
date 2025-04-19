@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/imsnto/leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/imsnto/leetcode_/tree/master/0189-rotate-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/imsnto/leetcode_/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/imsnto/leetcode_/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/imsnto/leetcode_/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/imsnto/leetcode_/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/imsnto/leetcode_/tree/master/2685-first-completely-painted-row-or-column) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/imsnto/leetcode_/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/imsnto/leetcode_/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/imsnto/leetcode_/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/imsnto/leetcode_/tree/master/2792-neighboring-bitwise-xor) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/imsnto/leetcode_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/imsnto/leetcode_/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/imsnto/leetcode_/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/imsnto/leetcode_/tree/master/1656-count-good-triplets) |
+## Sorting
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/imsnto/leetcode_/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
