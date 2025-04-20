@@ -13,8 +13,7 @@ public:
             }
             int s = it.second;
             int f = it.first;
-            ans +=  (s/(f+1)) * (f+1);
-            ans += (s % (f+1)) == 0? 0: f+1;
+            ans +=  ((s+f)/(f+1)) * (f+1);
         }
         return ans;
     }
