@@ -1,11 +1,11 @@
 class Solution {
 public:
     int numberOfArrays(vector<int>& diff, int lower, int upper) {
-        vector<long long> temp{lower};
+        long long prev = lower;
         long long int mn = lower, mx = lower;
          for(int i=0; i<diff.size(); i++){
-            long long int curr = temp.back() + diff[i];
-            temp.push_back(curr);  
+            long long int curr = prev + diff[i];
+            prev  = curr; 
             mx = max(mx, curr);
             mn = min(mn, curr);
          }
