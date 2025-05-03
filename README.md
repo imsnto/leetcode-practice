@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imsnto/leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0797-rabbits-in-forest](https://github.com/imsnto/leetcode_/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/imsnto/leetcode_/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/imsnto/leetcode_/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/imsnto/leetcode_/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/imsnto/leetcode_/tree/master/2509-minimize-xor) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/imsnto/leetcode_/tree/master/0189-rotate-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/imsnto/leetcode_/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0797-rabbits-in-forest](https://github.com/imsnto/leetcode_/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/imsnto/leetcode_/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/imsnto/leetcode_/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1364-tuple-with-same-product](https://github.com/imsnto/leetcode_/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/imsnto/leetcode_/tree/master/1396-count-servers-that-communicate) |
