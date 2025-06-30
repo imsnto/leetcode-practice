@@ -1,23 +1,19 @@
-func max(a, b int) int {
-    if a > b {
-        return a
-    }else{
-        return b
-    }
-}
+
 func findLHS(nums []int) int {
-    cnt := make(map[int]int)
-    for _, val := range nums {
-        cnt[val] ++
-    }
-    ans := 0 
-    for key, val := range cnt {
-        if cnt[key-1] > 0 {
-            ans = max(ans, cnt[key-1] + val)
+    sort.Ints(nums)
+    l, r := 0, 1
+    maxLen := 0
+
+    for r < len(nums) {
+        diff := nums[r] - nums[l]
+        if diff == 1 {
+            maxLen = max(maxLen, r - l + 1)
         }
-        if cnt[key+1] > 0{
-            ans = max(ans, cnt[key + 1] + val)
+        if diff <= 1 {
+            r ++
+        }else {
+            l ++
         }
     }
-    return ans
+    return maxLen
 }
