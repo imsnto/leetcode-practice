@@ -8,7 +8,7 @@ func max(a, b int) int {
 func findLHS(nums []int) int {
     cnt := make(map[int]int)
     for _, val := range nums {
-        cnt[val] += 1 
+        cnt[val] ++
     }
     ans := 0 
     for key, val := range cnt {
