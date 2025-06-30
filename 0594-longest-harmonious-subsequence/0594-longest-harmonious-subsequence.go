@@ -1,8 +1,7 @@
 
 func findLHS(nums []int) int {
     sort.Ints(nums)
-    l, r := 0, 1
-    maxLen := 0
+    maxLen, l, r := 0, 0, 1
 
     for r < len(nums) {
         diff := nums[r] - nums[l]
