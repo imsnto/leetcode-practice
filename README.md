@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/imsnto/leetcode_/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/imsnto/leetcode_/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/imsnto/leetcode_/tree/master/0128-longest-consecutive-sequence) |
+| [0594-longest-harmonious-subsequence](https://github.com/imsnto/leetcode_/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/imsnto/leetcode_/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/imsnto/leetcode_/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/imsnto/leetcode_/tree/master/1364-tuple-with-same-product) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/imsnto/leetcode_/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/imsnto/leetcode_/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/imsnto/leetcode_/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/imsnto/leetcode_/tree/master/1396-count-servers-that-communicate) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imsnto/leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/imsnto/leetcode_/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/imsnto/leetcode_/tree/master/0189-rotate-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/imsnto/leetcode_/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/imsnto/leetcode_/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0797-rabbits-in-forest](https://github.com/imsnto/leetcode_/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/imsnto/leetcode_/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/imsnto/leetcode_/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/imsnto/leetcode_/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash
 |  |
@@ -232,5 +236,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/imsnto/leetcode_/tree/master/0594-longest-harmonious-subsequence) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/imsnto/leetcode_/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
