@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/imsnto/leetcode_/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3447-clear-digits](https://github.com/imsnto/leetcode_/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/imsnto/leetcode_/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3617-find-the-original-typed-string-i](https://github.com/imsnto/leetcode_/tree/master/3617-find-the-original-typed-string-i) |
 ## String Matching
 |  |
 | ------- |
