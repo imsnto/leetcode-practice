@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/imsnto/leetcode_/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/imsnto/leetcode_/tree/master/0038-count-and-say) |
 | [0516-longest-palindromic-subsequence](https://github.com/imsnto/leetcode_/tree/master/0516-longest-palindromic-subsequence) |
+| [0742-to-lower-case](https://github.com/imsnto/leetcode_/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/imsnto/leetcode_/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/imsnto/leetcode_/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/imsnto/leetcode_/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
