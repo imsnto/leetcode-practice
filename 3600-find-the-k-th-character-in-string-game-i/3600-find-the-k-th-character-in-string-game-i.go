@@ -11,6 +11,5 @@ func kthCharacter(k int) byte {
         }
         s = append(s, nextS...)
     }
-    fmt.Println(s)
     return byte(s[k-1])
 }
