@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/imsnto/leetcode_/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/imsnto/leetcode_/tree/master/0189-rotate-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/imsnto/leetcode_/tree/master/0594-longest-harmonious-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/imsnto/leetcode_/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/imsnto/leetcode_/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0797-rabbits-in-forest](https://github.com/imsnto/leetcode_/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/imsnto/leetcode_/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/imsnto/leetcode_/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2509-minimize-xor](https://github.com/imsnto/leetcode_/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/imsnto/leetcode_/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/imsnto/leetcode_/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/imsnto/leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imsnto/leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/imsnto/leetcode_/tree/master/0516-longest-palindromic-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/imsnto/leetcode_/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/imsnto/leetcode_/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1250-longest-common-subsequence](https://github.com/imsnto/leetcode_/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/imsnto/leetcode_/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -244,4 +247,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/imsnto/leetcode_/tree/master/0594-longest-harmonious-subsequence) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/imsnto/leetcode_/tree/master/2699-count-the-number-of-fair-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/imsnto/leetcode_/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/imsnto/leetcode_/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/imsnto/leetcode_/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
