@@ -25,7 +25,7 @@ public:
         if(total % k != 0) return false;
         vector<int> equal(k);
         int i= 0;
-        sort(nums.begin(), nums.end());
+        //sort(nums.begin(), nums.end());
         for(int j=n-1; j>n-k; j--) equal[i++] = nums[j];
         return helper(n-k, equal, nums, k);
     }
