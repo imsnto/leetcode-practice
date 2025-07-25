@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/imsnto/leetcode_/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/imsnto/leetcode_/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/imsnto/leetcode_/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/imsnto/leetcode_/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/imsnto/leetcode_/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/imsnto/leetcode_/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/imsnto/leetcode_/tree/master/2509-minimize-xor) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/imsnto/leetcode_/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/imsnto/leetcode_/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/imsnto/leetcode_/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/imsnto/leetcode_/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/imsnto/leetcode_/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
 | ------- |
