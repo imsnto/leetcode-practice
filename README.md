@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/imsnto/leetcode_/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/imsnto/leetcode_/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/imsnto/leetcode_/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imsnto/leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/imsnto/leetcode_/tree/master/0128-longest-consecutive-sequence) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/imsnto/leetcode_/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/imsnto/leetcode_/tree/master/0189-rotate-array) |
 | [0797-rabbits-in-forest](https://github.com/imsnto/leetcode_/tree/master/0797-rabbits-in-forest) |
 | [2050-count-good-numbers](https://github.com/imsnto/leetcode_/tree/master/2050-count-good-numbers) |
