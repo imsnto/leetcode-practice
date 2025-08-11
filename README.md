@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/imsnto/leetcode_/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/imsnto/leetcode_/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/imsnto/leetcode_/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2529-range-product-queries-of-powers](https://github.com/imsnto/leetcode_/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/imsnto/leetcode_/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/imsnto/leetcode_/tree/master/2685-first-completely-painted-row-or-column) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/imsnto/leetcode_/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/imsnto/leetcode_/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2509-minimize-xor](https://github.com/imsnto/leetcode_/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/imsnto/leetcode_/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/imsnto/leetcode_/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/imsnto/leetcode_/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/imsnto/leetcode_/tree/master/2792-neighboring-bitwise-xor) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/imsnto/leetcode_/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2145-grid-game](https://github.com/imsnto/leetcode_/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/imsnto/leetcode_/tree/master/2249-count-the-hidden-sequences) |
+| [2529-range-product-queries-of-powers](https://github.com/imsnto/leetcode_/tree/master/2529-range-product-queries-of-powers) |
 ## Matrix
 |  |
 | ------- |
