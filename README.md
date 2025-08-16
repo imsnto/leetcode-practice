@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/imsnto/leetcode_/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/imsnto/leetcode_/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/imsnto/leetcode_/tree/master/1247-decrease-elements-to-make-array-zigzag) |
+| [1448-maximum-69-number](https://github.com/imsnto/leetcode_/tree/master/1448-maximum-69-number) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/imsnto/leetcode_/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/imsnto/leetcode_/tree/master/2509-minimize-xor) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/imsnto/leetcode_/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/imsnto/leetcode_/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/imsnto/leetcode_/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/imsnto/leetcode_/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/imsnto/leetcode_/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/imsnto/leetcode_/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/imsnto/leetcode_/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
